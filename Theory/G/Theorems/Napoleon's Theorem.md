@@ -1,0 +1,2 @@
+Let $ABC$ be a triangle and erect equilateral triangles on sides $BC$, $CA$, $AB$ outside of $ABC$ with centers $O_A$, $O_B$, $O_C$. Prove that $O_AO_BO_C$ is equilateral and that its center coincides with the centroid of triangle $ABC$.
+![[Napoleon's theorem.png]]

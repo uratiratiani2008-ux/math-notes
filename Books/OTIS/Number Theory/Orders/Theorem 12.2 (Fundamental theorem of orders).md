@@ -1,0 +1,1 @@
+Suppose $a^N ≡ 1 \pmod p$, then the order of $a \pmod p$ divides $N$ .

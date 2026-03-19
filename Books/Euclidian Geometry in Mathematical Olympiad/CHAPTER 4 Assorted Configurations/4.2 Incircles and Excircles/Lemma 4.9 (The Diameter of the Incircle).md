@@ -1,0 +1,2 @@
++ Let ABC be a triangle whose incircle istangent to BC at D. If DE is a diameter of the incircle and ray AE meets BC at X, then BD = CX and X is the tangency point of the A-excircle to BC.
+![[Pasted image 20241211160047.png]]

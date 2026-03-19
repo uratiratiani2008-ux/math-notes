@@ -1,0 +1,1 @@
+Let $p$ be a prime. Then there exists an element $g \pmod p$ of order $p − 1$, called a **primitive root**.

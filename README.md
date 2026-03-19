@@ -1,3 +1,4 @@
 # math-notes
 My Math Notes on Obsidian
-hello
+# 19.03.2026
++ added initial files

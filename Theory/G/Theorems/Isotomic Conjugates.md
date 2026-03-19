@@ -1,0 +1,2 @@
+For a point $P$ and triangle $ABC$, let $A',B',C'$ be the feet of the cevians through P . Let $A''$ be the reflection of $A'$ about the midpoint of $BC$ and define $B''$ and $C''$ similarly. Then the cevians $AA''$ , $BB''$, and $CC''$ concur at a point $P^*$ , the isotomic conjugate of $P$.
+![[Pasted image 20250204225457.png|500]]

@@ -1,0 +1,1 @@
+for any two coprime integers $a,b$. there are infinitely many primes of the form $a + nb$.
