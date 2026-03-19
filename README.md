@@ -1,2 +1,2 @@
 # math-notes
-My Math Notes on Obsidian 123
+My Math Notes on Obsidian
